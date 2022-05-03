@@ -1,2 +1,2 @@
 # Actividad-con-Datos-Textuales
-Estimación de nota de alumnos en base al análisis de las respuestas
+Estimación de la nota de alumnos en base al análisis de las respuestas
