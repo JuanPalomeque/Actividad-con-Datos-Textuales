@@ -29,8 +29,6 @@ warnings.filterwarnings('ignore')
 
 # ### Preparo el Corpus para el trabajo
 
-# In[552]:
-
 
 # SELLECIONO LAS COLUMNAS,CAMBIO EL NOMBRE, ELIMINO LAS NA Y TRABAJO EL FORMATO
 
