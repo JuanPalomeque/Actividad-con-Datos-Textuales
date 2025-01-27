@@ -3,7 +3,7 @@
 
 # ## PREDICCION DE NOTAS UTILIZANDO APRENDISAJE AUTOMATICO
 
-# In[550]:
+# In[550]: 
 
 
 from nltk.stem import WordNetLemmatizer
